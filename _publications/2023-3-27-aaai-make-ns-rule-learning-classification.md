@@ -5,15 +5,36 @@ permalink: /publication/neuro-symbolic-rule-learning-in-real-world-classificatio
 excerpt: 'Neuro-symbolic rule learning with **neural DNF-based** models in
 real-world multi-class and multi-label classification tasks.'
 date: 2023-03-27
-venue: 'AAAI-MAKE 2023'
+venue: ' AAAI 2023 Spring Symposium on Challenges Requiring the Combination of Machine Learning and Knowledge Engineering (AAAI-MAKE 2023)'
 paperurl: 'https://proceedings.aaai-make.info/AAAI-MAKE-PREPRINTS-2023/Paper_6465.pdf'
-citation: 'Baugh KG, Cingillioglu N, Russo A. Neuro-symbolic Rule Learning in Real-world Classification Tasks. In: AAAI-MAKE 2023.'
+citation: 'K. G. Baugh, N. Cingillioglu, and A. Russo, “Neuro-symbolic Rule Learning in Real-world Classification Tasks,” in Proceedings of the AAAI 2023 Spring Symposium on Challenges Requiring the Combination of Machine Learning and Knowledge Engineering (AAAI-MAKE 2023), A. Martin, H.-G. Fill, A. Gerber, K. Hinkelmann, D. Lenat, R. Stolle, and F. van Harmelen, Eds., CEUR Workshop Proceedings, 2023.'
 ---
 
 Neuro-symbolic rule learning with **neural DNF-based** models in real-world
 multi-class and multi-label classification tasks.
 
-[Download paper here]('https://proceedings.aaai-make.info/AAAI-MAKE-PREPRINTS-2023/Paper_6465.pdf')
+[Download from AAAI-MAKE 2023 program here]('https://proceedings.aaai-make.info/AAAI-MAKE-PREPRINTS-2023/Paper_6465.pdf')
+
+[Download from CEUR Workshop Proceedings here](https://ceur-ws.org/Vol-3433/paper12.pdf)
+
+[Download from arXiv here](https://arxiv.org/abs/2303.16674)
+
+
+Bibtex for AAAI-MAKE 2023 proceedings
+
+```
+@inproceedings{ns-classifications,
+  title        = {Neuro-symbolic Rule Learning in Real-world Classification Tasks},
+  year         = {2023},
+  author       = {Baugh, Kexin Gu and Cingillioglu, Nuri and Russo, Alessandra},
+  booktitleaddon    = {Proceedings of the AAAI 2023 Spring Symposium on Challenges Requiring the Combination of Machine Learning and Knowledge Engineering (AAAI-MAKE 2023)},
+  editor       = {Martin, Andreas and Fill, Hans-Georg and Gerber, Aurona and Hinkelmann, Knut and Lenat, Doug and Stolle, Reinhard and van Harmelen, Frank},
+  volume       = {Vol-3433},
+  venue        = {Hyatt Regency, San Francisco Airport, California, USA},
+  publisher    = {CEUR Workshop Proceedings},
+  url          = {https://ceur-ws.org/Vol-3433/paper12.pdf},
+}
+```
 
 Bibtex for arxiv pre-print
 
