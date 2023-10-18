@@ -13,6 +13,8 @@ our [Twitch channel](https://www.twitch.tv/fat_pigeon_gaming).
 I'm particularly good at rhythm games such as Synth Riders and Beat Saber, but
 quite noob at MoBA although I really like DotA :/
 
+I'm also a casual Cardfight Vanguard player -- Alchemagic Zorga enjoyer :P Participated in BSF 2022 and 2023 for fun.
+
 
 
 ## Art
