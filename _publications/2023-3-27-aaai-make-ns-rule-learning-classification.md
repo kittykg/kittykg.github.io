@@ -6,7 +6,7 @@ excerpt: 'Neuro-symbolic rule learning with **neural DNF-based** models in
 real-world multi-class and multi-label classification tasks.'
 date: 2023-03-27
 venue: ' AAAI 2023 Spring Symposium on Challenges Requiring the Combination of Machine Learning and Knowledge Engineering (AAAI-MAKE 2023)'
-paperurl: 'https://proceedings.aaai-make.info/AAAI-MAKE-PREPRINTS-2023/Paper_6465.pdf'
+paperurl: 'https://ceur-ws.org/Vol-3433/paper12.pdf'
 citation: 'K. G. Baugh, N. Cingillioglu, and A. Russo, “Neuro-symbolic Rule Learning in Real-world Classification Tasks,” in Proceedings of the AAAI 2023 Spring Symposium on Challenges Requiring the Combination of Machine Learning and Knowledge Engineering (AAAI-MAKE 2023), A. Martin, H.-G. Fill, A. Gerber, K. Hinkelmann, D. Lenat, R. Stolle, and F. van Harmelen, Eds., CEUR Workshop Proceedings, 2023.'
 ---
 
