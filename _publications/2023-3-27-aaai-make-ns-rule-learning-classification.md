@@ -13,12 +13,11 @@ citation: 'K. G. Baugh, N. Cingillioglu, and A. Russo, “Neuro-symbolic Rule Le
 Neuro-symbolic rule learning with **neural DNF-based** models in real-world
 multi-class and multi-label classification tasks.
 
-[Download from AAAI-MAKE 2023 program here]('https://proceedings.aaai-make.info/AAAI-MAKE-PREPRINTS-2023/Paper_6465.pdf')
+Download from [AAAI-MAKE 2023 program](https://proceedings.aaai-make.info/AAAI-MAKE-PREPRINTS-2023/Paper_6465.pdf),
+[CEUR Workshop Proceedings](https://ceur-ws.org/Vol-3433/paper12.pdf),
+[arXiv](https://arxiv.org/abs/2303.16674)
 
-[Download from CEUR Workshop Proceedings here](https://ceur-ws.org/Vol-3433/paper12.pdf)
-
-[Download from arXiv here](https://arxiv.org/abs/2303.16674)
-
+Github [Repo 1](https://github.com/kittykg/neural-dnf-cub), [Repo 2](https://github.com/kittykg/neural-dnf-tmc)
 
 Bibtex for AAAI-MAKE 2023 proceedings
 
