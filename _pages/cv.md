@@ -21,7 +21,7 @@ Experience
 * **National Institute of Informatics**, Research Internship, Jan - May 2024
   + Supervisor: Professor Katsumi Inoue
 
-* **Cisco ThousandEyes**, Software Engineering Placement, Apr - Sep 2020 
+* **Cisco ThousandEyes**, Software Engineering Placement, Apr - Sep 2020
   + Duties included: backend development, devops
 
 * **Cisco ThousandEyes**, Software Engineering Internship, Jul - Sep 2019
@@ -52,7 +52,7 @@ Publications
     {% include archive-single-cv.html %}
 
   {% endfor %}</ul>
-  
+
 Projects
 ======
   <ul>{% for post in site.projects %}
@@ -60,8 +60,7 @@ Projects
     {% include archive-single-cv.html %}
 
   {% endfor %}</ul>
-  
-  
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -69,7 +68,7 @@ Projects
     {% include archive-single-talk-cv.html %}
 
   {% endfor %}</ul> -->
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -77,7 +76,7 @@ Teaching
     {% include archive-single-cv.html %}
 
   {% endfor %}</ul>
-  
+
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->

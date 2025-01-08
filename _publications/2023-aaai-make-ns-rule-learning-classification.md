@@ -39,7 +39,7 @@ Bibtex for arxiv pre-print
 
 ```
 @misc{aaai-make-2023-6465,
-    title={Neuro-symbolic Rule Learning in Real-world Classification Tasks}, 
+    title={Neuro-symbolic Rule Learning in Real-world Classification Tasks},
     author={Kexin Gu Baugh and Nuri Cingillioglu and Alessandra Russo},
     year={2023},
     eprint={2303.16674},
