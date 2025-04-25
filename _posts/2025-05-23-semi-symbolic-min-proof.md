@@ -16,13 +16,15 @@ The pix2rule paper can be found [here](https://arxiv.org/abs/2106.07487).
 
 ## The bias term: max or min?
 
-Say we have a layer of $N$ inputs and each $x_i$ is either 1 or -1. The layer itself:
+Say we have a layer of $N$ inputs and each $x_i$ is either 1 or -1. The layer
+itself:
 
 $$\begin{equation*}
     \sum_i^N w_i x_i + \beta = z
 \end{equation*}$$
 
-Conjunction condition: 1. all atom true, the conjunction is true. 2. one atom false, the conjunction is false.
+Conjunction condition: 1. all atom true, the conjunction is true. 2. one atom
+false, the conjunction is false.
 
 \begin{equation} \label{eq:1}
     \sum_i^N |w_i| + \beta = z
@@ -67,12 +69,12 @@ So a suitable value of $\alpha$ for Equation \ref{eq:4} would be $\min_{i, w_i
 \neq 0} |w_i|$. If $\min_{i, w_i \neq 0} |w_i|$ happen to be the same value of
 $|w_j|$, we still have inequality $|w_j| < 2 |w_j|$. If $w_j = 0$, then we go
 back to Equation \ref{eq:1} case, and knowing the output of the layer is
-$\alpha - 2 \sum_{j \text{ s.t. } w_j x_j < 0} |w_j|$, we know that the output would
-still be greater than 0. If we take $\alpha = \min_{i, w_i \neq 0} |w_i|$ and
-substitute it into Equation \ref{eq:3}, the inequality should always hold, as we
-have verified the base case of only one negation, and adding more to the R.H.S
-would not change the result of inequality. To conclude, a conjunctive layer's
-bias should be
+$\alpha - 2 \sum_{j \text{ s.t. } w_j x_j < 0} |w_j|$, we know that the output
+would still be greater than 0. If we take $\alpha = \min_{i, w_i \neq 0} |w_i|$
+and substitute it into Equation \ref{eq:3}, the inequality should always hold,
+as we have verified the base case of only one negation, and adding more to the
+R.H.S would not change the result of inequality. To conclude, a conjunctive
+layer's bias should be
 
 \begin{equation}
     \beta = \min_{i, w_i \neq 0} |w_i| - \sum_i^N |w_i|
@@ -107,16 +109,15 @@ the bias can be heavily dominated by the sum term and hinders the learning.
 We provide a pdf version of the same proof
 [here](/files/semi-symbolic-min-proof.pdf).
 
-This proof will also included as part of the appendix in our 2023 paper
-Neuro-symbolic Rule Learning in Real-world Classification Tasks [BCR23]. You
-can check the paper
-[here](/publication/neuro-symbolic-rule-learning-in-real-world-classification-tasks).
+This proof is also included as part of the appendix in our AAMAS 2025 paper,
+Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable
+Policies [BDR25]. You can check the paper
+[here](/publication/neural-dnf-mt-for-learning-interpretable-editable-policies).
 
 ## Citation
 
 [CR21] N. Cingillioglu, A. Russo. 2021. pix2rule: End-to-end Neuro-symbolic Rule
 Learning.
 
-[BCR23] K. G. Baugh, N. Cingillioglu, A. Russo. 2023. Neuro-symbolic Rule
-Learning in Real-world Classification Tasks.
-
+[BDR25] K. G. Baugh, L. Dickens, A. Russo. 2025. Neural DNF-MT: A Neuro-symbolic
+Approach for Learning Interpretable and Editable Policies.
