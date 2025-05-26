@@ -5,7 +5,7 @@ permalink: /publication/neural-dnf-mt-for-learning-interpretable-editable-polici
 excerpt: 'Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies'
 date: 2025-05-19
 venue: '24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)'
-paperurl: 'https://arxiv.org/abs/2501.03888'
+paperurl: 'https://plibin.github.io/aamas-25-proceedings/pdfs/p252.pdf'
 citation: 'Kexin Gu Baugh, Luke Dickens, and Alessandra Russo. 2025. Neural DNF-MT:
 A Neuro-symbolic Approach for Learning Interpretable and Editable
 Policies. In Proc. of the 24th International Conference on Autonomous Agents
@@ -13,9 +13,15 @@ and Multiagent Systems (AAMAS 2025), Detroit, Michigan, USA, May 19 – 23,
 2025, IFAAMAS.'
 ---
 
+[AAMAS 2025 Proceedings](https://plibin.github.io/aamas-25-proceedings/pdfs/p252.pdf)
+
 [Full paper with Appendix on arxiv](https://arxiv.org/abs/2501.03888)
 
 [GitHub Repo](https://github.com/kittykg/neural-dnf-mt-policy-learning)
+
+[Poster](https://github.com/kittykg/neural-dnf-mt-policy-learning/blob/main/figures/poster.pdf)
+
+[5-min intro video](https://www.youtube.com/watch?v=6_MFEDeN1cQ)
 
 Bibtex for arxiv pre-print
 
