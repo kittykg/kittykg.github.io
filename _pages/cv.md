@@ -18,6 +18,8 @@ Education
 
 Experience
 ======
+* **Cisco ThousandEyes**, Machine Learning Engineer, Jul 2025 - Present
+
 * **National Institute of Informatics**, Research Internship, Jan - May 2024
   + Supervisor: Professor Katsumi Inoue
 

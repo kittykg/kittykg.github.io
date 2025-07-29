@@ -10,7 +10,7 @@ locale: "en-GB"
 title: "K. G. Baugh"
 title_separator: "-"
 name: &name "Kexin Gu Baugh"
-description: &description "PhD student at Imperial College London"
+description: &description "Machine Learning Engineer at Cisco ThousandEyes | PhD student at Imperial College London"
 url: https://kittykg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "kittykg/kittykg.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name: "Kexin Gu Baugh"
   avatar: "profile.jpg"
-  bio: PhD student at Imperial College London
+  bio: Machine Learning Engineer at Cisco ThousandEyes | PhD student at Imperial College London
   location: "London, UK"
-  employer: "Imperial College London"
+  employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=FR0yYDkAAAAJ&hl=en"
   email: "kexin.gu17@imperial.ac.uk"
